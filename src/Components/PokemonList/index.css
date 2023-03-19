@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Roboto:wght@300&display=swap');
+.text{
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.li{
+    height: 100px;
+    width: 200px;
+    border: 1px solid;
+    text-align: center;
+    box-shadow: 5px 10px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.pokelist{
+    display: flex;
+    justify-content: center;
+}

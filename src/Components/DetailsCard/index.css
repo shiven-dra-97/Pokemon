@@ -1,0 +1,27 @@
+.detailsCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.content{
+    border: 1px solid;
+    padding: 20px;
+    box-shadow: 5px 10px 8px #888888;
+    border-radius: 10px;
+    /* text-align: center; */
+   
+}
+.pokemon{
+    height: 200px;
+    width: 200px;
+}
+
+.paragraph{
+    font-weight: bold;
+    color:black;
+}
+
+.hr{
+    width: 100%;
+}

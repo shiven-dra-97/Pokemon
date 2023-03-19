@@ -1,0 +1,40 @@
+.ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+    color: black;
+}
+.home{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.ul-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    height: 30px;
+    width: 80px;
+    background-color: white;
+    margin-inline: 20px;
+    cursor: pointer;
+}
+
+.head-image{
+    width: 200px;
+    align-self: center;
+    padding:20px;
+}
